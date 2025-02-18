@@ -27,3 +27,5 @@
 
 ## 🏁 Outcome
 - Mastery in interpreting SHA256 hashes through critical thinking and analysis.
+
+8. The original 3 digit number is 244
